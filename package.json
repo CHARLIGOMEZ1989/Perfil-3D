@@ -31,7 +31,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:github": "vite build --base=/Perfil-3D/",
+    "serve": "vite preview --host"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
