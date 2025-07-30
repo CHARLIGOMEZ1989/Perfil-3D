@@ -1,8 +1,32 @@
 {
   "name": "soil-profile-pro",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Interactive 3D soil profile visualization tool built with React and Three.js",
   "type": "module",
+  "author": {
+    "name": "Charlie Gómez",
+    "url": "https://github.com/CHARLIGOMEZ1989"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CHARLIGOMEZ1989/Perfil-3D.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CHARLIGOMEZ1989/Perfil-3D/issues"
+  },
+  "homepage": "https://charligomez1989.github.io/Perfil-3D/",
+  "keywords": [
+    "soil",
+    "3d",
+    "visualization",
+    "react",
+    "threejs",
+    "geology",
+    "science",
+    "interactive"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

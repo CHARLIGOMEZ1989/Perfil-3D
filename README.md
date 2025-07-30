@@ -1,6 +1,15 @@
 # 🌱 Soil Profile Pro
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/release/CHARLIGOMEZ1989/Perfil-3D.svg)](https://github.com/CHARLIGOMEZ1989/Perfil-3D/releases)
+[![CI/CD Pipeline](https://github.com/CHARLIGOMEZ1989/Perfil-3D/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/CHARLIGOMEZ1989/Perfil-3D/actions)
+[![CodeQL](https://github.com/CHARLIGOMEZ1989/Perfil-3D/workflows/CodeQL%20Security%20Analysis/badge.svg)](https://github.com/CHARLIGOMEZ1989/Perfil-3D/actions)
+[![GitHub issues](https://img.shields.io/github/issues/CHARLIGOMEZ1989/Perfil-3D.svg)](https://github.com/CHARLIGOMEZ1989/Perfil-3D/issues)
+[![GitHub stars](https://img.shields.io/github/stars/CHARLIGOMEZ1989/Perfil-3D.svg)](https://github.com/CHARLIGOMEZ1989/Perfil-3D/stargazers)
+
 Un visualizador interactivo 3D de perfiles de suelo desarrollado con React y Three.js. Este proyecto permite la visualización detallada de diferentes capas de suelo con datos científicos precisos.
+
+🚀 **[Ver Demo en Vivo](https://charligomez1989.github.io/Perfil-3D/)**
 
 ## 🚀 Características
 
